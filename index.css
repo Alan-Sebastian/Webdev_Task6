@@ -1,0 +1,27 @@
+html,body{
+    background-color: rgb(210, 222, 143);
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(233, 236, 239);
+
+}
+.container div{
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(18, 204, 237);
+}
+.home{
+    flex-grow: 1;
+    flex-basis: 200px;
+    border-bottom: 1px solid whitesmoke;
+}
+.search{
+      flex-grow: 1;
+    flex-basis: 200px;
+    border-bottom: 1px solid whitesmoke;
+}
+.logout{
+    flex-grow: 1;
+    flex-basis: 200px;
+    border-bottom: 1px solid whitesmoke;
+}
